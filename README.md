@@ -1,9 +1,7 @@
 # EXTC Commons
-
 Open-source academic resource hub for engineering students.
 
 This repository contains:
-
 * notes
 * PYQs
 * PPTs
@@ -12,11 +10,9 @@ This repository contains:
 * and useful learning resources
 
 Resources are organized branch-wise and subject-wise.
-
 ---
 
 # Structure
-
 ```txt id="a29hms"
 branch/
 └── sem-subject/
@@ -25,15 +21,12 @@ branch/
     ├── theory/
     └── lab/
 ```
-
 ---
 
 # Contribution
-
 Contributions are welcome.
 
 You can contribute:
-
 * notes
 * PYQs
 * experiments
@@ -42,13 +35,10 @@ You can contribute:
 * improvements and corrections
 
 Please:
-
 * maintain folder structure
 * use proper filenames
 * avoid duplicate uploads
-
 ---
 
 # Goal
-
 To build a simple, organized, and community-driven academic resource platform for engineering students.
