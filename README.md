@@ -13,13 +13,12 @@ Resources are organized branch-wise and subject-wise.
 ---
 
 # Structure
-```txt id="a29hms"
 branch/
 └── sem-subject/
     ├── README.md
-    ├── syllabus.md
-    ├── theory/
-    └── lab/
+    ├── syllabus-subject.pdf
+    ├── doc-subject-...
+    └── ppt-subject-...
 ```
 ---
 
