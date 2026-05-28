@@ -1,20 +1,6 @@
-## How To Study
+### Study Resource
+* 
 *
-*
-*
-## Important Topics
-*
-*
-*
-## Resources
-*
-*
-*
-## Contents
-### Theory
-* Notes
-* PPTs
-* PYQs
-### Lab
-* Experiments
-* Viva
+### Study Guide
+* **Class Notes**
+* 
