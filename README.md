@@ -10,10 +10,11 @@ This repository contains:
 ```text
 year-branch/
 └── sem-subject/
-    ├── README.md        # How to study & Resource links
+    ├── README.md      # How to study & Resource links
     ├── syllabus-subject
-    ├── doc-subject
-    └── ppt-subject
+    ├── doc-subject    # IA & ISE scheme, PYQs and other materials
+    ├── ppt-subject    # Theory
+    └── num-subject    # Numericals
 ```
 
 # Contribution
