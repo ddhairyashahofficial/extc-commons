@@ -1,4 +1,5 @@
 # EXTC Commons
+
 Open-source academic resource hub for engineering students.
 This repository contains:
 * Lecture PPTs
@@ -7,6 +8,7 @@ This repository contains:
 * Lab Experiments
 
 # Structure
+
 ```text
 year-branch/
 └── sem-subject/
@@ -15,14 +17,30 @@ year-branch/
     ├── doc-subject    # IA & ISE scheme, PYQs and other materials
     ├── ppt-subject    # Theory
     └── num-subject    # Numericals
+
+eg:
+sy-extc/
+├── sem3/
+└── Sem4/
 ```
 
-# Contribution
-Contributions are welcome.
-Please:
-* maintain folder structure
-* use proper filenames
-* avoid duplicate uploads
+## Repository Guidelines
 
-# Goal
-To build a simple, organized, and community-driven academic resource platform for core engineering students.
+- Maintain the existing folder structure.
+- Use descriptive filenames.
+- Avoid duplicate uploads.
+- Prefer PDF format where possible.
+- Verify resources before uploading.
+
+## Roadmap
+
+- [ ] Complete EXTC syllabus coverage
+- [ ] Add study guides for each subject
+- [ ] Add practical and viva resources
+- [ ] Add project references
+- [ ] Add placement preparation resources
+- [ ] Expand to other engineering branches
+
+## Disclaimer
+
+Resources are contributed by students and intended for educational purposes only. Accuracy is not guaranteed. Refer to official university sources when required.
