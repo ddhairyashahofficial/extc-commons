@@ -1,6 +1,6 @@
 # EXTC Commons
 
-Open-source academic resource hub for engineering students.
+Open academic resource hub for engineering students.
 This repository contains:
 * Lecture PPTs
 * Subject PYQs
@@ -43,4 +43,4 @@ sy-extc/
 
 ## Disclaimer
 
-Resources are contributed by students and intended for educational purposes only. Accuracy is not guaranteed. Refer to official university sources when required.
+Resources are contributed by students and may contain their sensitive information and intended for educational purposes only. Accuracy is not guaranteed. Refer to official university sources when required.
