@@ -2,5 +2,5 @@
 * 
 * 
 ### Study Guide
-* **Class Notes**
+* Hope you enjoy this subject !
 * 
